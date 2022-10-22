@@ -44,8 +44,7 @@
   <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardasamedcelik&theme=dark"/>
   </p>
 
-    ##Views
-
+##Views
 <a href="https://github.com/ardasamedcelik/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ardasamedcelik">
 </a>
