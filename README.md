@@ -41,7 +41,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
   <p align="center">
-  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardasamedcelik&theme=dark"/>
+  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=dark"/>
   </p>
 
 ##Views
