@@ -41,10 +41,10 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
   <p align="center">
-  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=dark"/>
+  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukrein00&theme=dark"/>
   </p>
 
-##Views
+## Views
 <a href="https://github.com/ardasamedcelik/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ardasamedcelik">
+    <img src="https://komarev.com/ghpvc/?username=zukrein00">
 </a>
