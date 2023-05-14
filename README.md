@@ -45,6 +45,6 @@
   </p>
 
 ## Views
-<a href="https://github.com/ardasamedcelik/github-profile-views-counter">
+<a href="https://github.com/zukrein00/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=zukrein00">
 </a>
