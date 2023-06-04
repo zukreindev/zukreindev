@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working from home
+I am a UI designer and web developer who is passionate about creating beautiful and functional websites. With years of experience in the industry, I have developed a keen eye for design and a deep understanding of what it takes to create a successful online presence.
 
 
 ## 🌐 Socials:
