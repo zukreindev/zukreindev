@@ -31,7 +31,7 @@ HTML         6 hrs 56 mins   ▓░░░░░░░░░░░░░░░░
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zukrein00&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=zukrein00&limit=5&theme=radical&combine_all_yearly_contributions=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zukrein00&icon=0&color=0)](https://visitcount.itsvg.in)
