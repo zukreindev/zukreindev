@@ -10,7 +10,7 @@ I am a UI designer and web developer who is passionate about creating beautiful 
 
 ```txt
 Svelte            155 hrs 48 mins ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
-Vue.js            123 hrs 8 mins  █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+Vue.js            123 hrs 8 mins  █████░░░░░░░░░░░░░░░░░░░░   20.31 %
 TypeScript        115 hrs 47 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
 JavaScript        113 hrs 57 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
 Go                26 hrs 47 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
