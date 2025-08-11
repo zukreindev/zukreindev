@@ -10,11 +10,11 @@ I am a UI designer and web developer who is passionate about creating beautiful 
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js            506 hrs 22 mins █████████▒░░░░░░░░░░░░░░░   36.70 %
-TypeScript        381 hrs 5 mins  ███████░░░░░░░░░░░░░░░░░░   27.62 %
-Svelte            181 hrs 4 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-JavaScript        129 hrs 7 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-JSON              47 hrs 34 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Vue.js            508 hrs 35 mins █████████▒░░░░░░░░░░░░░░░   36.79 %
+TypeScript        381 hrs 24 mins ███████░░░░░░░░░░░░░░░░░░   27.59 %
+Svelte            181 hrs 4 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+JavaScript        129 hrs 7 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+JSON              47 hrs 34 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
