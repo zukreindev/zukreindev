@@ -11,7 +11,7 @@ I am a UI designer and web developer who is passionate about creating beautiful 
 
 ```txt
 Vue.js            648 hrs 16 mins       █████████▓░░░░░░░░░░░░░░░   39.07 %
-TypeScript        468 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.26 %
+TypeScript        469 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.27 %
 Svelte            182 hrs 24 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
 JavaScript        130 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
 JSON              58 hrs 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
